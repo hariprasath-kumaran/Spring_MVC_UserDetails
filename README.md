@@ -13,7 +13,6 @@ Developed login and register application using Spring mvc.
 - Spring MVC
 - JSP
 - JDBC
-- CSS
 - Bootstrap
 - MySQL
  
@@ -41,7 +40,7 @@ Developed login and register application using Spring mvc.
  
       1.index
       2.register
-  3.shoform
+      3.shoform
  
  
 ## 🔃Working of project
